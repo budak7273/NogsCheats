@@ -1,0 +1,25 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0.0",
+	"FriendlyName": "Nog's Cheats",
+	"Description": "Use buttons in Quick Search & the Codex to easily give yourself items. Use chat commands to run console commands.",
+	"Category": "Modding",
+	"CreatedBy": "Nog, Robb",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "http://discord.gg/zqp6U7Y7Nu",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"SemVersion": "1.0.0",
+	"Plugins": [
+		{
+			"Name": "SML",
+			"SemVersion": "^3.5.0",
+			"Enabled": true
+		}
+	]
+}
