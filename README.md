@@ -1,10 +1,13 @@
 # Nog's Cheats
 
 _This mod is currently maintained by Robb. No new features are currently planned._
+_If you enjoy my work, please consider donating to my [completely optional tip jar](https://ko-fi.com/robb4)._
 
 Multiplayer compatible!
 
-Use buttons in Quick Search & the Codex to easily give yourself items. Use chat commands to run console commands.
+Use buttons in Quick Search & the Codex to easily give yourself items.
+Automatically enables console commands for you - no extra work required.
+You can also run them on the host's side from a client using chat commands.
 
 ## Features
 
@@ -25,11 +28,12 @@ Click the box icon to give yourself items!
 
 To run console commands in the game's chat, use the Chat Command:
 `/console <Command>` or `/c <Command>` or `/n <Command>`.
-Always executed server side in multiplayer.
+Always executed server side, applied to the command caller's player controller, in multiplayer.
 
-Example: `/c NoCost 1` to enable free building.
+Example: `/c NoCost 1` should enable free building.
+Commands may or may not work, this mod just offers a way to run them.
 
-[SML Chat Command Documentation](https://docs.ficsit.app/satisfactory-modding/latest/SMLChatCommands.html#ConsoleCommands)
+[SML's Documentation on Commands](https://docs.ficsit.app/satisfactory-modding/latest/SMLChatCommands.html#ConsoleCommands)
 
 Command /ConsoleList will print this into the Chat:
 

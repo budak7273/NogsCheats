@@ -1,8 +1,8 @@
 {
 	"FileVersion": 3,
 	"Version": 1,
-	"VersionName": "1.0.2",
-	"SemVersion": "1.0.2",
+	"VersionName": "1.1.0",
+	"SemVersion": "1.1.0",
 	"FriendlyName": "Nog's Cheats",
 	"Description": "Use buttons in Quick Search & the Codex to easily give yourself items. Use chat commands to run console commands.",
 	"Category": "Modding",
@@ -18,7 +18,7 @@
 	"Plugins": [
 		{
 			"Name": "SML",
-			"SemVersion": "^3.6.0",
+			"SemVersion": "^3.7.0",
 			"Enabled": true,
 			"BasePlugin": false
 		}
