@@ -1,8 +1,8 @@
 {
 	"FileVersion": 3,
 	"Version": 1,
-	"VersionName": "1.1.1",
-	"SemVersion": "1.1.1",
+	"VersionName": "1.2.0",
+	"SemVersion": "1.2.0",
 	"FriendlyName": "Nog's Cheats",
 	"Description": "Use buttons in Quick Search & the Codex to easily give yourself items. Use chat commands to run console commands.",
 	"Category": "Modding",

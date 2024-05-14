@@ -3,19 +3,21 @@
 _This mod is currently maintained by Robb. No new features are currently planned._
 _If you enjoy my work, please consider donating to my [completely optional tip jar](https://ko-fi.com/robb4)._
 
-Multiplayer compatible!
+Multiplayer and dedicated server compatible!
 
-Use buttons in Quick Search & the Codex to easily give yourself items.
+Use buttons in **Quick Search** & the **Codex** to easily give yourself items.
 Automatically enables console commands for you - no extra work required.
 You can also run them on the host's side from a client using chat commands.
 
 ## Features
 
-* Codex & Quick Search "Give Item" buttons
+* Codex & Quick Search expanded to show items you don't have recipes for yet
+* Buttons in the Codex & Quick Search to give items
+  * Easily give single items, or stacks (shift-click), or lots of items (hold ctrl or ctrl-shift)
+* Start building any building, even if you don't have it unlocked yet
 * Console Commands
 * Command Lists
 * Debug Commands
-* Codex & search expanded to show items you don't have recipes for yet
 * Automatically enable console cheat commands just by having this mod installed (no need to enable the SML Mod Savegame Setting or modify any config files)
 
 Please report bugs [on the Discord](https://discord.gg/HT4w3qEGMQ)
@@ -24,7 +26,8 @@ Please report bugs [on the Discord](https://discord.gg/HT4w3qEGMQ)
 
 ![All Item Categories](https://i.imgur.com/wOBLUVY.png)
 
-Click the box icon to give yourself items!
+Click the box icon to give yourself items.
+Click hammer icons to select structures in the Build Gun.
 
 To run console commands in the game's chat, use the Chat Command:
 `/console <Command>` or `/c <Command>` or `/n <Command>`.
@@ -35,7 +38,7 @@ Commands may or may not work, this mod just offers a way to run them.
 
 [SML's Documentation on Commands](https://docs.ficsit.app/satisfactory-modding/latest/SMLChatCommands.html#ConsoleCommands)
 
-Command /ConsoleList will print this into the Chat:
+The chat command `/ConsoleList` will print this in the chat:
 
 Cheat Commands:
 
@@ -67,7 +70,7 @@ Cheat Commands:
 * `ShowFactoryOnly <true/false>`
 * `ForceSpawnCreatures`
 
-Command /DebugList will print this List in Chat:
+Chat command `/DebugList` will print this in Chat:
 
 * `ShowDebug Factory`
 * `ShowDebug FactoryConnections`
